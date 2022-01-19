@@ -1,0 +1,1 @@
+Criar a função pause para esse modelo
