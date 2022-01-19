@@ -1,7 +1,0 @@
-tarefas que eu preciso guardar para serem executadas semanalmente.
-
-# Usado para importar informações do Pandas
-import pandas as pd
-
-
-
